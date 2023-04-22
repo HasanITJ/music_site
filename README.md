@@ -2,4 +2,4 @@
 
 * [Ссылка на сайт](https://hasanitj.github.io/music_sait/)
 
-<img width="154" alt="GFG" scr="/img/Programming-1024.png">
+<img width="30px"px" alt="Prorgamer" scr="/img/Programming-1024.png">
